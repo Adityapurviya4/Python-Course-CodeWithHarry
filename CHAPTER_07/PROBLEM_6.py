@@ -1,3 +1,5 @@
+# 6. Write a program to calculate the factorial of a given number using for loop.
+
 number = int(input("enter you number factorial "))
 
 f=1
